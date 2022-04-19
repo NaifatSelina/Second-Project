@@ -10,8 +10,10 @@
 /* background image and body styling */
 body {
     font-family: "Jolly Lodger", sans-serif;
-    background-image: url(../images/quiz\ background\ image.jpeg);
-    background-repeat: no-repeat;
+}
+
+html {
+    background: url(../images/quiz\ background\ image.jpeg) no-repeat center center fixed;
     background-size: cover;
 }
 
