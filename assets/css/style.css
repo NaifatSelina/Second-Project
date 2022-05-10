@@ -26,3 +26,13 @@ h1 {
     font-size: 650%;
 }
 
+/* game box styling */
+.game-box {
+    height: 400px;
+    width: 50%;
+    margin: auto;
+    background-color: #15317E;
+    border-radius: 5px;
+    border: 2px solid #191970;
+}
+
