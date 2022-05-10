@@ -135,12 +135,20 @@ h1 {
 
 /* help page styling */
 
-.help-text {
-    font-size: 100%;
+#help-title {
     font-family: Paytone One, sans-serif;
-    color: rgb(17, 16, 16);
+    font-size: 120%;
+    color: #BCC6CC;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.help-text {
+    font-size: 90%;
+    font-family: Paytone One, sans-serif;
+    color: black;
     padding: 10px;
     letter-spacing: 2px;
     text-align: left;
-    margin-top: 7px;
+    float: left;
 }
