@@ -120,9 +120,16 @@ h1 {
     font-family: Paytone One, sans-serif;
     float: right;
     margin: 10px;
-    height: 30px;
+    height: 37px;
     border-radius: 5px;
     border: 2px solid #191970;
     background-color: #BCC6CC;
+}
+
+#button-restart, p {
+    padding-right: 5px;
+    padding-left: 5px;
+    width: fit-content;
+    text-align: center;
 }
 
