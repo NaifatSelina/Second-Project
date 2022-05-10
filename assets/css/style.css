@@ -114,3 +114,15 @@ h1 {
     text-align: center;
 }
 
+/* questions page styling */
+#button-restart {
+    font-size: 150%;
+    font-family: Paytone One, sans-serif;
+    float: right;
+    margin: 10px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid #191970;
+    background-color: #BCC6CC;
+}
+
