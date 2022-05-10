@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Jolly+Lodger&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=M+PLUS+1:wght@500&family=Merriweather+Sans:wght@600&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Jolly+Lodger&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=M+PLUS+1:wght@500&family=Merriweather+Sans:wght@600&family=Oswald:wght@300&family=PT+Sans+Narrow&family=Paytone+One&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
 /* default body styling */
 * {
     margin: 0;
@@ -19,7 +19,7 @@ html {
 
 /* main title styling */
 h1 {
-    color: antiquewhite;
+    color: #E5E4E2;
     text-align: center;
     width: 100%;
     margin-top: 5%;
@@ -34,5 +34,14 @@ h1 {
     background-color: #15317E;
     border-radius: 5px;
     border: 2px solid #191970;
+}
+
+.intro-text {
+    color: #BCC6CC;
+    font-size: 150%;
+    font-family: Paytone One, sans-serif;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
 }
 
