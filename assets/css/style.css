@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Jolly+Lodger&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=M+PLUS+1:wght@500&family=Merriweather+Sans:wght@600&family=Oswald:wght@300&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Jolly+Lodger&family=Lato:wght@300&family=Libre+Baskerville:ital@0;1&family=Libre+Franklin&family=M+PLUS+1:wght@500&family=Merriweather+Sans:wght@600&family=Oswald:wght@300&family=PT+Sans+Narrow&family=Paytone+One&family=Quicksand&family=Sansita+Swashed:wght@300&display=swap');
+
 /* default body styling */
 * {
     margin: 0;
@@ -19,7 +20,7 @@ html {
 
 /* main title styling */
 h1 {
-    color: #E5E4E2;
+    color: #BCC6CC;
     text-align: center;
     width: 100%;
     margin-top: 5%;
@@ -29,12 +30,12 @@ h1 {
 
 /* welcome game box styling */
 .game-box {
-    height: 400px;
-    width: 50%;
+    height: 370px;
+    width: 60%;
     margin: auto;
     background-color: #15317E;
     border-radius: 5px;
-    border: 1px solid #191970;
+    border: 2px solid #191970;
 }
 
 #intro-text-section {
@@ -43,7 +44,7 @@ h1 {
 }
 
 .intro-text {
-    color: #BCC6CC;
+    color: black;
     font-size: 180%;
     font-family: Paytone One, sans-serif;
     text-align: center;
@@ -99,7 +100,7 @@ h1 {
     width: fit-content;
     height: 45px;
     border-radius: 5px;
-    border: 1px solid #9F000F;
+    border: 2px solid #191970;;
     font-size: 180%;
     font-weight: 300;
     letter-spacing: 2px;
