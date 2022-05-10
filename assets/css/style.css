@@ -133,3 +133,14 @@ h1 {
     text-align: center;
 }
 
+/* help page styling */
+
+.help-text {
+    font-size: 100%;
+    font-family: Paytone One, sans-serif;
+    color: rgb(17, 16, 16);
+    padding: 10px;
+    letter-spacing: 2px;
+    text-align: left;
+    margin-top: 7px;
+}
