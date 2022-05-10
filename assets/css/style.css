@@ -62,3 +62,23 @@ h1 {
     height: 30px;
     border-radius: 5px;
 }
+
+#button-start {
+    font-family: Paytone One, sans-serif;
+    width: fit-content;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #9F000F;
+    font-size: 180%;
+    font-weight: 300;
+    letter-spacing: 2px;
+    background-color: #FF0000;
+    margin: 10px;
+}
+
+#button-start, p {
+    padding-right: 5px;
+    padding-left: 5px;
+    text-align: center;
+}
+
