@@ -27,7 +27,7 @@ h1 {
     letter-spacing: 5px;
 }
 
-/* game box styling */
+/* welcome game box styling */
 .game-box {
     height: 400px;
     width: 50%;
@@ -46,3 +46,19 @@ h1 {
     padding-bottom: 10px;
 }
 
+#button-help {
+    font-size: 150%;
+    font-family: Paytone One, sans-serif;
+    margin: 10px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#button-audio {
+    font-size: 150%;
+    font-family: Paytone One, sans-serif;
+    float: right;
+    margin: 10px;
+    height: 30px;
+    border-radius: 5px;
+}
