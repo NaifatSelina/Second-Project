@@ -34,12 +34,17 @@ h1 {
     margin: auto;
     background-color: #15317E;
     border-radius: 5px;
-    border: 2px solid #191970;
+    border: 1px solid #191970;
+}
+
+#intro-text-section {
+    text-align: center;
+    margin-top: 5%;
 }
 
 .intro-text {
     color: #BCC6CC;
-    font-size: 150%;
+    font-size: 180%;
     font-family: Paytone One, sans-serif;
     text-align: center;
     margin: auto;
@@ -52,6 +57,8 @@ h1 {
     margin: 10px;
     height: 30px;
     border-radius: 5px;
+    border: 2px solid #191970;
+    background-color: #BCC6CC;
 }
 
 #button-help, p {
@@ -70,6 +77,8 @@ h1 {
     margin: 10px;
     height: 30px;
     border-radius: 5px;
+    border: 2px solid #191970;
+    background-color: #BCC6CC;
 }
 
 #button-audio, p {
@@ -78,6 +87,11 @@ h1 {
     padding-right: 5px;
     padding-left: 5px;
     text-align: center;
+}
+
+#start-button-section {
+    text-align: center;
+    margin-top: 7%;
 }
 
 #button-start {
@@ -90,14 +104,12 @@ h1 {
     font-weight: 300;
     letter-spacing: 2px;
     background-color: #FF0000;
-    margin: 10px;
 }
 
 #button-start, p {
     padding-right: 5px;
     padding-left: 5px;
     width: fit-content;
-    height: fit-content;
     text-align: center;
 }
 
