@@ -104,7 +104,7 @@ h1 {
     font-size: 180%;
     font-weight: 300;
     letter-spacing: 2px;
-    background-color: #e70303;
+    background-color: #9e0101;
 }
 
 #button-start, p {
@@ -112,7 +112,11 @@ h1 {
     padding-left: 5px;
     width: fit-content;
     text-align: center;
-    color: #020214;
+    color: black;
+}
+
+.intro-text > .fa-solid {
+    color: black;
 }
 
 /* questions page styling */
@@ -123,7 +127,7 @@ h1 {
     margin: 10px;
     height: 37px;
     border-radius: 5px;
-    border: 2px solid #191970;
+    border: 2px solid #020214;
     background-color: #BCC6CC;
 }
 
@@ -139,7 +143,7 @@ h1 {
 #help-title {
     font-family: Paytone One, sans-serif;
     font-size: 120%;
-    color: #BCC6CC;
+    color: #8c9faa;
     text-align: center;
     margin-top: 60px;
 }
@@ -147,9 +151,13 @@ h1 {
 .help-text {
     font-size: 90%;
     font-family: Paytone One, sans-serif;
-    color: black;
+    color: #dadcdd;
     padding: 10px;
     letter-spacing: 2px;
     text-align: left;
     float: left;
+}
+
+.help-text > .fa-solid {
+    color: #9e0101;
 }
