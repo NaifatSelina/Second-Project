@@ -30,8 +30,8 @@ h1 {
 
 /* welcome game box styling */
 .game-box {
-    height: 370px;
-    width: 60%;
+    height: 420px;
+    width: 65%;
     margin: auto;
     background-color: #040a1d;
     border-radius: 5px;
@@ -45,7 +45,7 @@ h1 {
 
 .intro-text {
     color: #b0c3cf;
-    font-size: 180%;
+    font-size: 220%;
     font-family: Paytone One, sans-serif;
     text-align: center;
     margin: auto;
@@ -142,14 +142,14 @@ h1 {
 
 #help-title {
     font-family: Paytone One, sans-serif;
-    font-size: 120%;
+    font-size: 160%;
     color: #8c9faa;
     text-align: center;
-    margin-top: 60px;
+    margin-top: 70px;
 }
 
 .help-text {
-    font-size: 90%;
+    font-size: 100%;
     font-family: Paytone One, sans-serif;
     color: #dadcdd;
     padding: 10px;
