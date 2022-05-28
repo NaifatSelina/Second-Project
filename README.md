@@ -71,3 +71,18 @@ For my second project I decided to carry out the initial designs on Figma, creat
 
 [Back to Contents](<##contents>)
 
+<!--features-->
+## Features
+The Spider-Man Super Quiz is designed to be fun, interactive, inclusive and easy to navigate with a maintained structure and colour scheme the quiz achieves an inviting and comforting feel. The features of the quiz are used to promote the users want to complete the quiz and promotes feelings of accomplishment once this has been done. The familiar colour scheme and sound effects support these feelings to the user. 
+
+### Home Page. 
+*describe home page and screenshots*
+
+### Help Page. 
+*describe help page and screenshots**
+
+### Questions Pages. 
+*describe question pages and screenshots*
+
+### Final Page. 
+*describe final page and screenshots*
