@@ -104,3 +104,14 @@ The Spider-Man Super Quiz is designed to be fun, interactive, inclusive and easy
 
 [Back to Contents](<#contents>)
 
+<!--technologies used-->
+## Technologies Used
+[HTML5](https://en.wikipedia.org/wiki/HTML5)- used to provide structure and content of webpages.
+[CSS3](https://en.wikipedia.org/wiki/CSS)- used to style webpages.
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript)-used to provide interactivity.
+[Figma](https://www.figma.com/)-used to create wireframes for the webpages.
+[GitPod](https://www.gitpod.io/)-used to create, maintain and update the webpages.
+[GitHub](https://github.com/)-stored and deployed the webpages.
+[Compressor](https://compressor.io/)-compressed the background and read.me images.
+
+[Back to Contents](<#contents>)
