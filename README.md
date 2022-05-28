@@ -37,3 +37,7 @@ You can view the live site here.- *link*
 * [Media](<#media>)
 * [Content](<#content>)
 * [**Acknowledgements**](<#acknowledgements>)
+
+<!--project aim-->
+## Project Aim
+The main aim of my second project is to provide Spider-Man fans with a fun and interactive quiz that they can access whenever they want to test their Spider-Man knowledge. The quiz was made to be a quick and fun escape from the real world, into the Marvel universe for fans who need mind stimulating fun. I aim to use HTML and CSS to structure and style the quiz in a fun and inviting way whilst using JavaScript to add fun and interactivity to the quiz. 
