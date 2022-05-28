@@ -143,3 +143,15 @@ The code used to create the Spider-Man Super Quiz has under-gone testing and val
 
 ### Manual Testing. 
 *go through each feature and say how I checked* 
+
+[Back to Contents](<#contents>)
+
+<!--bugs and fixes-->
+## Bugs and Fixes
+
+### Bugs Fixed
+*note with screenshots*
+
+### Bugs Unfixed
+*note bugs not fixed*
+
