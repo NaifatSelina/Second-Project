@@ -41,3 +41,16 @@ You can view the live site here.- *link*
 <!--project aim-->
 ## Project Aim
 The main aim of my second project is to provide Spider-Man fans with a fun and interactive quiz that they can access whenever they want to test their Spider-Man knowledge. The quiz was made to be a quick and fun escape from the real world, into the Marvel universe for fans who need mind stimulating fun. I aim to use HTML and CSS to structure and style the quiz in a fun and inviting way whilst using JavaScript to add fun and interactivity to the quiz. 
+
+[Back to Contents](<##contents>)
+
+<!--user experience-->
+### User Experience
+## Design Wireframes
+For my second project I decided to carry out the initial designs on Figma, creating wireframes for desktop and mobile sized screens. The initial wireframes were created to help visualise the structure of the quiz however the ultimate structure and colour scheme of the quiz ended up being different to increase the accessibility and interactivity of the quiz. 
+![Design Wireframes](link)
+
+<!--webpage structure-->
+## Webpage Structure
+*placeholder text*
+
