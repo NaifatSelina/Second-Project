@@ -162,3 +162,22 @@ The code used to create the Spider-Man Super Quiz has under-gone testing and val
 *note steps and add screenshot of last step*
 
 The live link to the GitHub Repository can be found [here](https://github.com/NaifatSelina/Second-Project).
+
+[Back to Contents](<#contents>)
+
+<!--credits-->
+## Credits 
+## Media
+* [WallpapersMug](https://wallpapersmug.com/)- used to source background image.
+* [Flaticon](https://www.flaticon.com/)- used to source favicon image.
+* [Favicon](https://favicon.io/)- used to create the favicon.
+* [Compressor](https://compressor.io/)- used to compress background image used.
+
+## Content
+* [Google Fonts]()- used to source fonts used for the webpage.
+* [Font Awesome]()- used to source icons used for buttons.
+* [Favicon](https://favicon.io/)- used to create the favicon.
+*add one for where you sourced the questions*
+
+
+
