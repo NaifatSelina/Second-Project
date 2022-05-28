@@ -79,7 +79,7 @@ The Spider-Man Super Quiz is designed to be fun, interactive, inclusive and easy
 *describe home page and screenshots*
 
 ### Help Page
-*describe help page and screenshots**
+*describe help page and screenshots*
 
 ### Questions Pages
 *describe question pages and screenshots*
@@ -155,3 +155,10 @@ The code used to create the Spider-Man Super Quiz has under-gone testing and val
 ### Bugs Unfixed
 *note bugs not fixed*
 
+[Back to Contents](<#contents>)
+
+<!--deployment-->
+## Deployment
+*note steps and add screenshot of last step*
+
+The live link to the GitHub Repository can be found [here](https://github.com/NaifatSelina/Second-Project).
