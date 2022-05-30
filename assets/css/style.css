@@ -36,7 +36,7 @@ h1 {
     background-color: #040a1d;
     border-radius: 5px;
     border: 2px solid #020214;
-    box-shadow: 0 0 10px;
+    box-shadow: 0 0 5px 1px;
 }
 
 #intro-text-section {
@@ -170,4 +170,15 @@ h1 {
 
 .help-text > .fa-solid {
     color: #9e0101;
+}
+
+/* questions page styling */
+
+.btn {
+    margin: 10px;
+    background-color: #bb0000;
+    width: 80%;
+    border: 2px solid #e2f4ff;
+    border-radius: 5px;
+    height: 40px;
 }
