@@ -20,7 +20,7 @@ html {
 
 /* main title styling */
 h1 {
-    color: #BCC6CC;
+    color: #e2f4ff;
     text-align: center;
     width: 100%;
     margin-top: 5%;
@@ -44,7 +44,7 @@ h1 {
 }
 
 .intro-text {
-    color: #b0c3cf;
+    color: #e2f4ff;
     font-size: 220%;
     font-family: Paytone One, sans-serif;
     text-align: center;
@@ -59,7 +59,7 @@ h1 {
     height: 30px;
     border-radius: 5px;
     border: 2px solid #020214;
-    background-color: #BCC6CC;
+    background-color: #e2f4ff;
 }
 
 #button-help, p {
@@ -79,7 +79,7 @@ h1 {
     height: 30px;
     border-radius: 5px;
     border: 2px solid #020214;
-    background-color: #BCC6CC;
+    background-color: #e2f4ff;
 }
 
 #button-audio, p {
@@ -104,7 +104,11 @@ h1 {
     font-size: 180%;
     font-weight: 300;
     letter-spacing: 2px;
-    background-color: #9e0101;
+    background-color: #e2f4ff;
+}
+
+#button-start:hover {
+    background-color: #bb0000;
 }
 
 #button-start, p {
@@ -116,6 +120,10 @@ h1 {
 }
 
 .intro-text > .fa-solid {
+    color: #bb0000;
+}
+
+.intro-text > .fa-solid:hover {
     color: black;
 }
 
