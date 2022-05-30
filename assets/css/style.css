@@ -186,6 +186,10 @@ h1 {
     font-family: Paytone One, sans-serif;
 }
 
+.question-btns:hover {
+    border-color: black;
+}
+
 #question {
     color: #e2f4ff;
     font-size: 170%;
