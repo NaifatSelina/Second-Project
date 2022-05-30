@@ -136,7 +136,7 @@ h1 {
     height: 37px;
     border-radius: 5px;
     border: 2px solid #020214;
-    background-color: #BCC6CC;
+    background-color: #e2f4ff;
 }
 
 #button-restart, p {
@@ -153,13 +153,14 @@ h1 {
     font-size: 160%;
     color: #8c9faa;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 60px;
+    margin-bottom: 20px;
 }
 
 .help-text {
     font-size: 100%;
     font-family: Paytone One, sans-serif;
-    color: #dadcdd;
+    color: #e2f4ff;
     padding: 10px;
     letter-spacing: 2px;
     text-align: left;
