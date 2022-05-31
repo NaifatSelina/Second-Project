@@ -114,6 +114,8 @@ h1 {
     background-color: #bb0000;
     border-color: #bb0000;
     cursor: pointer;
+    transition: transform 150ms;
+    transform: scale(1.03);
 }
 
 #button-start, p {
@@ -194,6 +196,8 @@ h1 {
 .question-btns:hover {
     border-color: black;
     cursor: pointer;
+    transform: scale(1.02);
+    transform: transform 100ms;
 }
 
 #question {
