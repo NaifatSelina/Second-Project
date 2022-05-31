@@ -229,3 +229,11 @@ h1 {
 #previous-btn {
     margin-left: 4%;
 }
+
+.correct {
+    background: linear-gradient(32deg, rgba(11, 223, 36) 0%, rbg(41, 232, 111) 100%);
+}
+
+.incorrect {
+    background: linear-gradient(32deg, rgba(230, 29, 29, 1) 0%, rbg(224, 11, 11, 1) 100%);
+}
